@@ -8,14 +8,29 @@ My professional background includes extensive experience in digital marketing, M
 
 ---
 
-## Current Focus
+### Current Focus
 
-- Building backend systems with Python and FastAPI
-- Developing adaptive state and feedback engines
-- Designing modular AI-assisted architectures
-- Creating API-first digital products
-- Connecting product development with growth strategy
-- Exploring scalable, independently owned software systems
+I’m building **Algorithm State Engine** — a persistent state layer for human-centered applications and AI agents.
+
+The core idea: adaptive systems need reliable state before action.
+
+Algorithm State Engine explores state objects as middleware between human signals and downstream software systems. Instead of moving directly from user input to recommendation or execution, the architecture tracks domain state, confidence, uncertainty, calibration needs, feedback, and safe action boundaries.
+
+Key laws:
+
+```text
+Memory is not state.
+Preview is not persistence.
+Persistence is not activation.
+Activation is not execution.
+Authorization is not action.
+Unknown means insufficient validated input, not false.
+```
+
+The goal is not autonomous action first.
+
+The first milestone is reliable state.
+
 
 ---
 
